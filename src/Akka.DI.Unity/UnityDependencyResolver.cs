@@ -10,7 +10,7 @@ using System.Collections.Concurrent;
 using System.Runtime.CompilerServices;
 using Akka.Actor;
 using Akka.DI.Core;
-using Microsoft.Practices.Unity;
+using Unity;
 
 namespace Akka.DI.Unity
 {

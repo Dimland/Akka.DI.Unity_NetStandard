@@ -10,7 +10,9 @@ using System.Diagnostics;
 using Akka.Actor;
 using Akka.DI.Core;
 using Akka.DI.TestKit;
-using Microsoft.Practices.Unity;
+using Unity;
+using Unity.Injection;
+using Unity.Lifetime;
 
 namespace Akka.DI.Unity.Tests
 {
