@@ -10,6 +10,7 @@
 		<Product>Akka.DI.Unity NetStandard</Product>
 		<Description>Akka.DI.Unity for NetStandard</Description>
 		<PackageProjectUrl>https://github.com/Dimland/Akka.DI.Unity_NetStandard.git</PackageProjectUrl>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
