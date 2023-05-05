@@ -4,7 +4,7 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<RootNamespace>Akka.DI.Unity</RootNamespace>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<PackageId>Akka.DI.Unity NetStandard</PackageId>
+		<PackageId>Hermes_Akka.DI.Unity_NetStandard</PackageId>
 		<Authors>Dima</Authors>
 		<Company>-</Company>
 		<Product>Akka.DI.Unity NetStandard</Product>
